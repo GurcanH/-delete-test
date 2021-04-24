@@ -17,3 +17,8 @@ const branch1_func2 = () => {
 const master = () => {
     console.log('maste/r')
 }
+
+
+const branch4_func1 = () => {
+    console.log(branch4)
+}
