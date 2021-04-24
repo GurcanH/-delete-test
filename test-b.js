@@ -13,3 +13,7 @@ const branch1_func1 = () => {
 const branch1_func2 = () => {
     console.log(branch1 + 'ok')
 }
+
+const master = () => {
+    console.log('maste/r')
+}
